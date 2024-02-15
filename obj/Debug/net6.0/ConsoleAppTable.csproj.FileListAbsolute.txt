@@ -1,0 +1,14 @@
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.exe
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.deps.json
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.runtimeconfig.json
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.dll
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.pdb
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.AssemblyInfoInputs.cache
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.AssemblyInfo.cs
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.csproj.CoreCompileInputs.cache
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.dll
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\refint\ConsoleAppTable.dll
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.pdb
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.genruntimeconfig.cache
+E:\SpecFlow Phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ref\ConsoleAppTable.dll
